@@ -18,6 +18,8 @@
     "karma-chrome-launcher": "^0.1.4",
     "karma-mocha": "^0.1.8",
     "karma-script-launcher": "^0.1.0",
-    "mocha": "^1.21.4"
+    "mocha": "^1.21.4",
+    "mocha-phantomjs": "^3.5.0",
+    "phantomjs": "^1.9.7-15"
   }
 }
